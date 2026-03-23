@@ -1,1 +1,20 @@
-
+{
+  "app_status": true,
+  "trial_days": 3,
+  "slider_limit_after_trial": 70,
+  "pricing": {
+    "5_days": "₹5",
+    "15_days": "₹70",
+    "30_days": "₹120",
+    "lifetime": "₹450"
+  },
+  "payment_button": {
+    "text": "Get Premium",
+    "url": "https://t.me/yourtelegram"
+  },
+  "force_update": false,
+  "premium_users": [
+    "EQ-ANDROID-83HF7D9S",
+    "EQ-ANDROID-9DKF73KS"
+  ]
+}
